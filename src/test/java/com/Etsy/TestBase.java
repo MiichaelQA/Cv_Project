@@ -1,12 +1,11 @@
-package com.Esty;
+package com.Etsy;
 
-import com.Esty.pages.HomePageHelper;
+import com.Etsy.pages.HomePageHelper;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 

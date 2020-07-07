@@ -1,4 +1,4 @@
-package com.Esty.pages;
+package com.Etsy.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

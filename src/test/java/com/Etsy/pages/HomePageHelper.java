@@ -1,4 +1,4 @@
-package com.Esty.pages;
+package com.Etsy.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -6,7 +6,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class HomePageHelper extends PageBase {
-    String name;
     @FindBy(xpath = "//span[@id='logo']//*[local-name()='svg']")
     WebElement logo;
 

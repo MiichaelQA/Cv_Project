@@ -1,17 +1,11 @@
-package com.Esty;
+package com.Etsy;
 
-import com.Esty.pages.ContextBarHelper;
-import com.Esty.pages.HomePageHelper;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
+import com.Etsy.pages.ContextBarHelper;
+import com.Etsy.pages.HomePageHelper;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
-import java.util.Collection;
 
 public class HomePageTests extends TestBase {
 
