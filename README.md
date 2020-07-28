@@ -8,3 +8,6 @@ and of course GitHub!
 My full process of test by tools listed above was in the GIF inside CV 
 and here I want to show exactly what are inside of my project and how it was created
   
+TestRail web page with tests runs and results https://qaautomationcvprojectgmail.testrail.io/index.php?/runs/view/2&group_by=cases:section_id&group_order=asc
+
+JIRA web page with SCRUM board and issues https://cv-project.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=CPV1&selectedIssue=CPV1-1
