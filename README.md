@@ -1,6 +1,6 @@
 # Cv_Project
 
-Hello, glad to see you here in my CV project to get a desired job!
+Hello, glad to see you here in my CV project!
 
 This project will show you my knowledge in working with Selenium WebDriver, JIRA, ChroPath, KatalonRecorder, IntelliJ IDEA, Page Object 
 and of course GitHub!
